@@ -28,3 +28,9 @@ img {
 
 .thumbimage {
 }
+
+.contents {
+    border-style: solid;
+    border-color: black;
+    width: fit-content;
+}
