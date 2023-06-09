@@ -16,11 +16,8 @@ main {
 nav {
     text-align: center;
 }
-a:link {
-    color: black;
-}
 a:visited {
-    color:white
+    color:black
 }
 
 img {
