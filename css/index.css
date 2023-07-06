@@ -34,3 +34,7 @@ img {
     border-color: black;
     width: fit-content;
 }
+i {
+    color: blue;
+    text-decoration: underline;
+}
