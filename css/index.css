@@ -1,22 +1,31 @@
 body {
     background-color: orange;
+    
 }
 
 h1 {
-    color: black;
     text-align: center;
-}
-
-main {
-    background-color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 10px;
 }
 
 nav {
     text-align: center;
+    max-width:fit-content;
+    margin: auto;
 }
+
+h2 {
+    border-color: black;
+    border-style: double;
+    padding-bottom: 15px;
+}
+
+main {
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+}
+
 a:visited {
     color:black
 }
@@ -41,4 +50,13 @@ i {
 .covers {
     max-width: 20%;
     padding: 5%;
+}
+
+.chara {
+    max-height: 75%;
+    max-width: 75%;
+    float: right;
+    border-color: black;
+    border-style: dashed;
+    padding-left: ;
 }
