@@ -41,6 +41,10 @@ i {
     text-decoration: underline;
 }
 
+hr.solid {
+  border-top: 1px solid #bbb;
+}
+
 .container {
     display: grid;
     align-items: center;
